@@ -1,0 +1,1 @@
+Modification finale du README pour la release v1.0.0"
