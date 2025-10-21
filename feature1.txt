@@ -1,0 +1,1 @@
+L’important est que tu sois sur la bonne branche (feature/feature1) quand tu ajoutes et commits tes fichiers.
